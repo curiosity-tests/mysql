@@ -11,7 +11,7 @@
     },
     "mysql-shell": {
       "repo": "https://repo.mysql.com/yum/mysql-tools-innovation-community/el/9",
-      "version": "26.7.0-1.el9"
+      "version": "26.7.1-1.el9"
     },
     "version": "26.7.0"
   },
